@@ -13,7 +13,7 @@
   </p>
   <br />
 <h3>
-    <a href="https://jeff-amazon.vercel.app/">View Demo</a>
+    <a href="https://albert-amazon.vercel.app/">View Demo</a>
 </h3>
 </div>
 
@@ -22,7 +22,7 @@
  <br />
 
 
-<a href="https://jeff-amazon.vercel.app/" target="_blank">![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)</a>
+<a href="https://albert-amazon.vercel.app/" target="_blank">![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)</a>
 
 # About
 Welcome to the Amazon Clone project! This project is a comprehensive replication of the renowned Amazon e-commerce platform, developed using a myriad of modern web development technologies. It is designed to showcase the potential and flexibility of these technologies when integrated together, and to provide a practical example of their application.
@@ -85,7 +85,7 @@ Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packag
 
 ```bash
 # Clone this project
-$ git clone https://github.com/jeffjiang13/amazon
+$ git clone https://github.com/albertboyd/amazon
 
 # Access
 $ cd amazon
